@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Color and Font Picker",
+    "version": "1.0",
+    "description": "Pick colors and fonts from any webpage.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "128": "icon.png"
+      }
+    }
+  }
+  
